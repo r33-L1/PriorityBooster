@@ -15,4 +15,4 @@ Client
 Booster.exe <threadid> <priority>
 ```
 
-Priority should be 0 < Priority < 32
+Priority should be 0 < `priority` < 32
